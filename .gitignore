@@ -1,7 +1,6 @@
 .DS_Store
-audio/
 docs/
 assets/
-*.mp3
 *.rar
 node_modules/
+# audio/ MP3s are tracked (self-hosted to fix FLAC streaming truncation)
